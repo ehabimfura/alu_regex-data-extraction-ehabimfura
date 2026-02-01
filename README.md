@@ -7,14 +7,12 @@ It emphasizes **accuracy, robustness, and security awareness** by handling real�
 ---
 
 ## 📂 Project Structure
-alu_regex-data-extraction-ehabimfura/
-│
-├── input.txt          # Raw text data (messy API-like input)
-├── extract.js         # Main source code with regex + validation
-├── sample-output.json # Example output from running extract.js
-├── README.md          # Documentation (this file)
-└── package.json       # Optional, for npm workflow
 
+- `input.txt` — sample raw text data (messy API-like input)  
+- `extract.js` — main source code with regex and validation logic  
+- `sample-output.json` — example output after running the program  
+- `README.md` — documentation and usage guide  
+- `package.json` — optional, for npm workflow
 
 ---
 
