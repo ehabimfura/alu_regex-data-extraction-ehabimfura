@@ -1,0 +1,31 @@
+{
+    "emails": [
+        "j***k@example.co.uk",
+        "j***h@example.com",
+        "m***n@company.co.uk",
+        "s***e@example.net"
+    ],
+    "urls": [
+        "https://shop.example.com/products?id=123",
+        "http://example.org",
+        "https://sub.example.org/page",
+        "https://example.com"
+    ],
+    "phones": [
+        "(123) 456-7890",
+        "123.456.7890",
+        "123-456-7890",
+        "(555) 123-4567"
+    ],
+    "credit_cards": [
+        "****-****-****-3456",
+        "****-****-****-6543",
+        "****-****-****-7654",
+        "****-****-****-8888"
+    ],
+    "timestamps": [
+        "14:30",
+        "2:30 PM",
+        "09:05 am"
+    ]
+}

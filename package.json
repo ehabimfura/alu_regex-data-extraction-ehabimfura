@@ -1,0 +1,10 @@
+{
+  "name": "alu_regex-data-extraction-ehabimfura",
+  "version": "1.0.0",
+  "description": "Regex-based data extraction and secure validation assignment",
+  "main": "extract.js",
+  "scripts": {
+    "start": "node extract.js"
+  },
+  "author": "Espoir Habimfura"
+}
